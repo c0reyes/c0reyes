@@ -10,9 +10,9 @@ I am a backend developer and some frontend from Dominican Republic 🇩🇴, now
 <p align = "center">
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/conrado-reyes-a8066419/)
-  [![Visits Badge](https://badges.pufler.dev/visits/c0reyes/c0reyes?style=for-the-badge)](https://github.com/c0reyes)
-  [![Repos Badge](https://badges.pufler.dev/repos/c0reyes?style=for-the-badge)](https://github.com/c0reyes)
-  [![Years Badge](https://badges.pufler.dev/years/c0reyes?style=for-the-badge)](https://github.com/c0reyes)
+  ![Visits Badge](https://badges.pufler.dev/visits/c0reyes/c0reyes?style=for-the-badge)
+  ![Repos Badge](https://badges.pufler.dev/repos/c0reyes?style=for-the-badge)
+  ![Years Badge](https://badges.pufler.dev/years/c0reyes?style=for-the-badge)
 
 </p>
 
