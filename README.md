@@ -1,6 +1,6 @@
 ## Hi 👋 I am Conrado!
 
-I am a backend developer and some frontend, now dabbling in data analysis. Some of the languages I use are Java, Perl, Python and R.
+I am a backend developer and some frontend from Dominican Republic 🇩🇴, now dabbling in data analysis. Some of the languages I use are Java, Perl, Python and R.
 
 - ‍💻 Currently looking for work as a data science or backend programmer.
 - 😊 I like open source projects.
@@ -8,10 +8,12 @@ I am a backend developer and some frontend, now dabbling in data analysis. Some 
 ## 📬 Get in touch
 
 <p align = "center">
+
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/conrado-reyes-a8066419/)
   [![Visits Badge](https://badges.pufler.dev/visits/c0reyes/c0reyes?style=for-the-badge)](https://github.com/c0reyes)
   [![Repos Badge](https://badges.pufler.dev/repos/c0reyes?style=for-the-badge)](https://github.com/c0reyes)
   [![Years Badge](https://badges.pufler.dev/years/c0reyes?style=for-the-badge)](https://github.com/c0reyes)
+
 </p>
 
 ## &#x1f4c8; My GitHub Stats
