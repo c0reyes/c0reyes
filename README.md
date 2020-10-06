@@ -20,5 +20,5 @@ I am a backend developer and some frontend from Dominican Republic 🇩🇴, now
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=c0reyes&show_icons=true&line_height=27&theme=dark">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=c0reyes&hide=css,html,ruby,perl&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=c0reyes&hide=css,html,ruby,perl,shell&theme=dark">
 </p>
