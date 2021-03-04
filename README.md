@@ -3,15 +3,14 @@
 I am a developer from Dominican Republic 🇩🇴, now dabbling in data analysis. Some of the languages I use are Java, Perl, Python and R.
 
 - I like open source projects.
-
-[My dotfiles](https://github.com/c0reyes/dotfiles)
+- [My dotfiles](https://github.com/c0reyes/dotfiles)
 
 ## Get in touch
 
 <p align = "center">
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/conrado-reyes-a8066419/)
-  
+
 </p>
 
 ## &My GitHub Stats
