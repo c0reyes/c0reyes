@@ -13,7 +13,7 @@ I am a developer from Dominican Republic 🇩🇴, now dabbling in data analysis
 
 </p>
 
-## &My GitHub Stats
+## My GitHub Stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=c0reyes&show_icons=true&line_height=27&theme=gotham">
