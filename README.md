@@ -17,5 +17,4 @@ I am a developer from Dominican Republic 🇩🇴, now dabbling in data analysis
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=c0reyes&show_icons=true&line_height=27&theme=gotham">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=c0reyes&hide=css,html,ruby,perl,shell,javascript&theme=gotham">
 </p>
